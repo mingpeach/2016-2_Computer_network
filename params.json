@@ -1,0 +1,6 @@
+{
+  "name": "COSE342 : Computer Network",
+  "tagline": "Programming Assignment - Socket Programming",
+  "body": "### HW1. client - send \r\n\r\nWrite a client socket program that transmits 10-digit student id of yours to the server program.\r\n\r\n### HW2. client - send & receive \r\n\r\nWrite a client socket program that runs below simple application layer protocol. (Hello, Instruction, Response, Terminate)\r\n\r\n### HW3. client - send & receive\r\n\r\nThe goal of HW3 is to calculate a message digest based on IR (Instruction-Response) protocol defined in HW2. A client receives and stores messages from the server. When the client receives a digest instruction message, it calculate SHA-1 output of data sent by series of push instructions.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
